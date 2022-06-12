@@ -1,2 +1,3 @@
 # JavaScript_Udemy
-Created with CodeSandbox
+
+モダン JavaScript の基礎から始める挫折しないための React 入門
